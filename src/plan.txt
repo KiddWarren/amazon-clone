@@ -1,0 +1,13 @@
+API -- hook up || DONE!
+routes -- browse by type of pokemon, home, cart || DONE!
+redux || DONE!
+
+Navbar -- persists through all pages for navigation || DONE!
+Search -- searches the DB for pokemon || DONE!
+Browse -- gets all pokemon by type and displays them.
+Cart -- keeps track of the pokemon we've added to the Cart || DONE!
+    Add -- add to Cart
+    remove -- remove from Cart
+    checkout -- purchase Cart
+"login" -- keep track of the user ==
+
